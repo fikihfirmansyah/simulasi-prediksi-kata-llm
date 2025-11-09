@@ -1,0 +1,5 @@
+{
+  "name": "Simulasi Prediksi Kata LLM",
+  "description": "Aplikasi web untuk mensimulasikan dan memvisualisasikan cara kerja LLM dalam memprediksi kata berikutnya menggunakan konsep vektor semantik.",
+  "requestFramePermissions": []
+}
